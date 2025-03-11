@@ -3,6 +3,12 @@
 ## Overview
 This project is a desktop application for visualizing current and historical exchange rates provided by the National Bank of Poland (NBP). The main objective is to allow users to track currency trends, compare fluctuations, and analyze exchange rate movements in an intuitive and interactive way.
 
+### Authors:
+-  Anna Ostrowska
+-  Maciej Momot
+-  Filip Langiewicz
+
+
 ## Features
 - Retrieves real-time exchange rate data from the NBP API
 - Displays exchange rate trends over customizable time periods
